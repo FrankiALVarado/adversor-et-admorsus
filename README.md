@@ -1,2 +1,0 @@
-# adversor-et-admorsus
-*-*
